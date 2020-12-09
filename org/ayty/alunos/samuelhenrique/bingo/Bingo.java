@@ -14,7 +14,7 @@ public class Bingo {
 		System.out.println("######################## Bem vindo ao bingo de Samuel ##############################");
 		
 		
-		System.out.println("Quantos participantes desejam jogar?\nOBS: máximo de 5 ");
+		System.out.println("Quantos participantes desejam jogar?\nOBS: mï¿½ximo de 5 ");
 		
 		int quantJogadores = leitor.nextInt();
 		
